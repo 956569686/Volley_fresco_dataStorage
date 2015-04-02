@@ -1,1 +1,1 @@
-volley开源项目使用
+volley开源项目使用，整合fresco，数据存储
